@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a5e7535-8438-4556-bbb2-c8ae35c8153d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/net/codejava/AppController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/codejava/AppController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/net/codejava/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/codejava/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/codejava/Products.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/net/codejava/AppControllerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RedisCache/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../RedisCache/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

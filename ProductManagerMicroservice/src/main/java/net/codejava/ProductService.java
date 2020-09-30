@@ -10,7 +10,15 @@ public class ProductService {
 
 	@Autowired
 	private ProductRepository repo;
-	
+
+	public ProductRepository getRepo() {
+		return repo;
+	}
+
+	public void setRepo(ProductRepository repo) {
+		this.repo = repo;
+	}
+
 	public Product get(long id) {
 		return repo.findById(id).get();
 	}

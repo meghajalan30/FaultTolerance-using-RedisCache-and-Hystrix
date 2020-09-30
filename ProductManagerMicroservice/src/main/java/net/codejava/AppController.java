@@ -9,6 +9,13 @@ public class AppController {
 	@Autowired
 	private ProductService service;
 
+	public ProductService getService() {
+		return service;
+	}
+
+	public void setService(ProductService service) {
+		this.service = service;
+	}
 
 	@RequestMapping("/edit/{id}")
 	public Product showEditProductPage(@PathVariable(name = "id") int id) {
